@@ -13,6 +13,7 @@
     <form action="/<%=product.barcode%>" method="post" data-theme="b">
         <input type="text" name="barcode" placeholder="Barcode" value="<%= product.barcode %>">
         <input type="text" name="brand" placeholder="Brand" value="<%= product.brand %>">
+        <input type="text" name="description" placeholder="Description" value="<%= product.description %>">
         <input type="number" name="price" placeholder="Precio" value="<%= product.price %>">
         <input type="number" name="cost" placeholder="Costo" value="<%= product.cost %>">
         <input type="number" name="stock" placeholder="Existencias" value="<%= product.stock %>">
