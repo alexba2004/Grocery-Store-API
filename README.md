@@ -1,6 +1,6 @@
 # Grocery-Store-API
 
-The Grocery Store API is a robust and feature-rich RESTful API designed to facilitate the management of products within a grocery store. Built using JavaScript, Node.js, Express, MongoDB, and jQuery Mobile, this API offers a comprehensive CRUD (Create, Read, Update, Delete) interface for interacting with product data.
+The Grocery Store API is a robust and feature-rich RESTful API designed to facilitate the management of products within a grocery store. Built using JavaScript, Node.js, Express, MongoDB, and jQuery Mobile, this API offers a comprehensive CRUD (Create, Read, Update, Delete) interface for interacting with product data. It is hosted with FL0.
 
 ## Endpoints
 
